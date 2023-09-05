@@ -1,0 +1,11 @@
+Abril Minerva Estrada Montaño
+
+Esta asignacion ha sido una experiencia enriquecedora para mí, ya que me ha brindado la oportunidad de aprender y aplicar los conceptos vistos en clase y de esta manera profundicé mas al ponerlo en práctica
+
+En esta asignacion desarrollé una aplicación Java que puede generar archivos de audio WAV a partir de señales senoidales. Esto me ha permitido comprender cómo se representan las señales de audio digitalmente y cómo se pueden manipular para crear sonidos específicos.
+
+Además, he aprendido sobre el manejo de excepciones y la gestión de archivos en Java, lo que ha mejorado mi comprensión de la programación orientada a objetos.
+
+Ahora tengo un panorama de cómo funcionan los archivos de audio digital y cómo se utilizan en diversas aplicaciones, desde la producción musical hasta la generación de efectos de sonido.
+
+En resumen ha sido un proyecto desafiante pero gratificante que me ha permitido aplicar lo que he aprendido en un contexto práctico, me llevó varios intentos llegar al resultado final, pero después de todo lo logré.
